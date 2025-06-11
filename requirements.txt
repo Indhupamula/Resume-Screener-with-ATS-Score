@@ -3,3 +3,4 @@ spacy
 docx2txt
 pdfminer.six
 langchain
+langchain-openai
