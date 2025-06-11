@@ -1,5 +1,5 @@
 import streamlit as st
-from src.analyzer import *
+from analyzer import *
 import pandas as pd
 gpt_key = st.text_input("openai key",type="password")
 if gpt_key:
