@@ -2,3 +2,4 @@ streamlit
 spacy
 docx2txt
 pdfminer.six
+langchain
